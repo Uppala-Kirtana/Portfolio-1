@@ -1,0 +1,71 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Times New Roman', Times, serif;
+	
+}
+
+.myh1 {
+	font-family:'Times New Roman', Times, serif;
+	color: rgb(255, 255, 255);
+	margin-top: 20px;
+	padding: 30px;
+	
+}
+
+.img1 {
+    border-radius: 50%;
+	border: 5px solid rgb(255, 255, 255);
+	margin-bottom: 50px;
+
+}
+.img2{
+	border: 5px solid rgb(255, 255, 255);
+	margin-bottom: 50px;
+}
+
+.mycon1{
+	border: 1px solid rgb(255, 255, 255);
+}
+
+.mycol1{
+	padding: 100px;
+}
+
+.myh12 h5{
+	color: cornsilk;
+}
+
+li{
+	color: antiquewhite;
+}
+
+table{
+	border-collapse: collapse; 
+	width: 100%; 
+	border: 2px solid #ccc; 
+	margin-top: 20px;
+}
+
+.myth1{
+	background-color: #333; 
+	color: white; 
+	padding: 10px;
+}
+
+.myth2{
+	border: 1px solid #ccc; 
+	padding: 10px;
+	color: aliceblue;
+	font-size: 30px;
+}
+
+.td1{
+	border: 1px solid #ccc; 
+	padding: 10px;
+	color: antiquewhite;
+	font-size: 18px;
+}
+
